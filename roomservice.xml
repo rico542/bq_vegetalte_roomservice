@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="TheMuppets/proprietary_vendor_bq" path="vendor/bq" remote="github" revision="cm-14.1" />
+  <project name="rico542/proprietary_vendor_bq" path="vendor/bq" remote="github" />
   <project name="rico542/android_device_bq_vegetalte" path="device/bq/vegetalte" remote="github" />
   <project name="rico542/android_device_bq_msm8916-common" path="device/bq/msm8916-common" remote="github" />
   <project name="LineageOS/android_kernel_bq_msm8939" path="kernel/bq/msm8939" remote="github" />
